@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Hi there!
-
-* * *
 
 I'm currently cofounding <a href='https://bytemine.io'>Bytemine.io</a> and on a mission to make investing/trading easy for novice traders/investors.<br>
 - 📫 How to reach me: sj@bytemine.io
